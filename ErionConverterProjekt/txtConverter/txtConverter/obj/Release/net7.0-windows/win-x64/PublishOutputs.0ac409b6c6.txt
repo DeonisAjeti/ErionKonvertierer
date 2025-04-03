@@ -1,0 +1,7 @@
+C:\Users\deoni\Desktop\Konvertierer\txtConverter.pdb
+C:\Users\deoni\Desktop\Konvertierer\D3DCompiler_47_cor3.dll
+C:\Users\deoni\Desktop\Konvertierer\PenImc_cor3.dll
+C:\Users\deoni\Desktop\Konvertierer\PresentationNative_cor3.dll
+C:\Users\deoni\Desktop\Konvertierer\vcruntime140_cor3.dll
+C:\Users\deoni\Desktop\Konvertierer\wpfgfx_cor3.dll
+C:\Users\deoni\Desktop\Konvertierer\txtConverter.exe

@@ -1,0 +1,5 @@
+C:\Users\deoni\Documents\GitHub\ErionKonvertierer\ErionConverterProjekt\txtConverter\txtConverter\bin\Release\net7.0-windows\publish\txtConverter.exe
+C:\Users\deoni\Documents\GitHub\ErionKonvertierer\ErionConverterProjekt\txtConverter\txtConverter\bin\Release\net7.0-windows\publish\txtConverter.dll
+C:\Users\deoni\Documents\GitHub\ErionKonvertierer\ErionConverterProjekt\txtConverter\txtConverter\bin\Release\net7.0-windows\publish\txtConverter.deps.json
+C:\Users\deoni\Documents\GitHub\ErionKonvertierer\ErionConverterProjekt\txtConverter\txtConverter\bin\Release\net7.0-windows\publish\txtConverter.runtimeconfig.json
+C:\Users\deoni\Documents\GitHub\ErionKonvertierer\ErionConverterProjekt\txtConverter\txtConverter\bin\Release\net7.0-windows\publish\txtConverter.pdb

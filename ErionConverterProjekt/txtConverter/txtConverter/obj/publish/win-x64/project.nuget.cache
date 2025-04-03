@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ucNo3r36eawMv35nn+QBP6shoVpOax7EXHtZhWpeoj2U2MyCGt6gPTB4RXlMs7g/wrLf+86PmVIJETcdoMaAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deoni\\Documents\\GitHub\\ErionKonvertierer\\ErionConverterProjekt\\txtConverter\\txtConverter\\txtConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deoni\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.3\\microsoft.netcore.app.runtime.win-x64.7.0.3.nupkg.sha512",
+    "C:\\Users\\deoni\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.3.nupkg.sha512",
+    "C:\\Users\\deoni\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.3\\microsoft.aspnetcore.app.runtime.win-x64.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
