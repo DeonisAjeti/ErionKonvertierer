@@ -1,3 +1,4 @@
+using Microsoft.VisualBasic;
 using System;
 using System.IO;
 using System.Security.Cryptography;
@@ -21,15 +22,20 @@ namespace txtConverter
         {
             string filePath = textBox1.Text;
             string text = File.ReadAllText(filePath);
-            string[] abschnitte = text.Split(new string[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
-
-            label1.Text = abschnitte[0] + "\n";
-
-            string ersteZeile = abschnitte[0].Replace("\t", "    ");
-
-            label1.Text += ersteZeile;
+            Stringsplitter(text);
         }
+        private string[][] Stringsplitter(string text)
+        {
+            string[] abschnitte = text.Split(new string[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
+            string[][] strings = new string[abschnitte.Length][];
+            for (int i = 0; i < abschnitte.Length; i++)
+            {
+                strings[i] = abschnitte[i].Split(new string[] { "\t" }, StringSplitOptions.RemoveEmptyEntries);
+            }
+            label1.Text = strings[4][5];
 
+            return strings;
+        }
 
         private void Konverter_Load(object sender, EventArgs e)
         {
