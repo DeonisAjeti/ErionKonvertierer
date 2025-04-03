@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deoni\\Desktop\\txtConverter\\txtConverter\\txtConverter.csproj",
+      "projectUniqueName": "C:\\Users\\deoni\\Documents\\GitHub\\ErionKonvertierer\\ErionConverterProjekt\\txtConverter\\txtConverter\\txtConverter.csproj",
       "projectName": "txtConverter",
-      "projectPath": "C:\\Users\\deoni\\Desktop\\txtConverter\\txtConverter\\txtConverter.csproj",
+      "projectPath": "C:\\Users\\deoni\\Documents\\GitHub\\ErionKonvertierer\\ErionConverterProjekt\\txtConverter\\txtConverter\\txtConverter.csproj",
       "packagesPath": "C:\\Users\\deoni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deoni\\Desktop\\txtConverter\\txtConverter\\obj\\",
+      "outputPath": "C:\\Users\\deoni\\Documents\\GitHub\\ErionKonvertierer\\ErionConverterProjekt\\txtConverter\\txtConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deoni\\AppData\\Roaming\\NuGet\\NuGet.Config",

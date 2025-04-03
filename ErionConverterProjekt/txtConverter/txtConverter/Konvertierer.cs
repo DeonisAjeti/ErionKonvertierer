@@ -27,7 +27,12 @@ namespace txtConverter
             }
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Konverter_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Konvertierer_Load(object sender, EventArgs e)
         {
 
         }
