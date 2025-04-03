@@ -2,6 +2,7 @@ using Microsoft.VisualBasic;
 using System;
 using System.IO;
 using System.Security.Cryptography;
+using System.Text;
 using System.Windows.Forms;
 using static System.Net.Mime.MediaTypeNames;
 
@@ -21,20 +22,79 @@ namespace txtConverter
         private void Readtxt()
         {
             string filePath = textBox1.Text;
-            string text = File.ReadAllText(filePath);
-            Stringsplitter(text);
+
+            if (!File.Exists(filePath))
+            {
+                MessageBox.Show("Datei nicht gefunden!");
+                return;
+            }
+
+            string text = File.ReadAllText(filePath, Encoding.GetEncoding("iso-8859-1"));
+
+            Writetxt(Stringsplitter(text));
         }
+
         private string[][] Stringsplitter(string text)
         {
-            string[] abschnitte = text.Split(new string[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
+            string[] abschnitte = text.Split(new string[] { "\r\n", "\n" }, StringSplitOptions.None);
             string[][] strings = new string[abschnitte.Length][];
             for (int i = 0; i < abschnitte.Length; i++)
             {
-                strings[i] = abschnitte[i].Split(new string[] { "\t" }, StringSplitOptions.RemoveEmptyEntries);
+                strings[i] = abschnitte[i].Split(new string[] { "\t" }, StringSplitOptions.None);
             }
-            label1.Text = strings[4][5];
+            string[][] adaptedString = new string[strings.Length-1][];
+            for(int i = 0; i < adaptedString.Length; i++)
+            {
+                adaptedString[i] = new string[strings[i].Length+1];
+                for(int j = 0; j < adaptedString[i].Length; j++)
+                {
+                    if (j < adaptedString[i].Length - 1)
+                    {
+                        adaptedString[i][j] = strings[i][j];
+                    }
+                    else
+                    {
+                        //Extra Zeile hinzufügen
+                        if(i == 0)
+                        {
+                            adaptedString[i][j] = "Konto";
+                        }else
+                        {
+                            //Kontonummer
+                            adaptedString[i][j] = "1600";
+                        }
+                    }
+                }
+            }
+            return adaptedString;
+        }
 
-            return strings;
+        private void Writetxt(string[][] txt)
+        {
+            using (SaveFileDialog sfd = new SaveFileDialog())
+            {
+                sfd.Title = "Datei speichern";
+                sfd.Filter = "Textdateien (*..txt)|*..txt|Alle Dateien (*.*)|*.*";
+
+                // Standardverzeichnis und Dateiname aus TextBoxen übernehmen
+                sfd.InitialDirectory = textBox2.Text;
+                sfd.FileName = textBox3.Text + "..txt"; // nur ein Punkt!
+
+                if (sfd.ShowDialog() == DialogResult.OK)
+                {
+                    using (StreamWriter writer = new StreamWriter(sfd.FileName, false, Encoding.UTF8)) // UTF-8!
+                    {
+                        for (int i = 0; i < txt.Length; i++)
+                        {
+                            string[] zeile = txt[i];
+                            string line = string.Join("\t", zeile);
+                            writer.WriteLine(line);
+                        }
+                    }
+
+                    MessageBox.Show("Datei gespeichert!");
+                }
+            }
         }
 
         private void Konverter_Load(object sender, EventArgs e)
@@ -46,14 +106,6 @@ namespace txtConverter
         {
 
         }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        
-
 
         private void Writetxt()
         {
@@ -87,7 +139,7 @@ namespace txtConverter
 
                     textBox2.Text = savepath;
 
-                    string speicherName = "Kassenbuch ";
+                    string speicherName = "Formatierung ";
 
                     using (StreamReader reader = new StreamReader(filePath))
                     {
@@ -106,7 +158,7 @@ namespace txtConverter
                         if (ersteZeile == null)
                         { return; }
                         string[] split = ersteZeile.Split(new string[] { "\t" }, StringSplitOptions.RemoveEmptyEntries);
-                        speicherName += split[2].Substring(3) + " Bringd..txt";
+                        speicherName += split[2].Substring(3, 2) + " Bringd";
                         textBox3.Text = speicherName;
 
                     }
@@ -115,5 +167,14 @@ namespace txtConverter
             }
         }
 
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
