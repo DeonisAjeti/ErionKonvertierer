@@ -1,0 +1,17 @@
+C:\Users\deoni\Desktop\txtConverter\txtConverter\bin\Debug\net7.0-windows\txtConverter.exe
+C:\Users\deoni\Desktop\txtConverter\txtConverter\bin\Debug\net7.0-windows\txtConverter.deps.json
+C:\Users\deoni\Desktop\txtConverter\txtConverter\bin\Debug\net7.0-windows\txtConverter.runtimeconfig.json
+C:\Users\deoni\Desktop\txtConverter\txtConverter\bin\Debug\net7.0-windows\txtConverter.dll
+C:\Users\deoni\Desktop\txtConverter\txtConverter\bin\Debug\net7.0-windows\txtConverter.pdb
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\txtConverter.csproj.AssemblyReference.cache
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\txtConverter.csproj.GenerateResource.cache
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\txtConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\txtConverter.AssemblyInfoInputs.cache
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\txtConverter.AssemblyInfo.cs
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\txtConverter.csproj.CoreCompileInputs.cache
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\txtConverter.dll
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\refint\txtConverter.dll
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\txtConverter.pdb
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\txtConverter.genruntimeconfig.cache
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\ref\txtConverter.dll
+C:\Users\deoni\Desktop\txtConverter\txtConverter\obj\Debug\net7.0-windows\txtConverter.Konvertierer.resources

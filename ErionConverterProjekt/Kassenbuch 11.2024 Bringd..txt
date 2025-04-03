@@ -1,0 +1,448 @@
+Auto	LfdNr	Datum	Betrag	Text	Beleg	Bez.am	Soll	Haben	Steuer	Kategorie	Abschluss
+M	37535	01.11.2024	-9137,88	Bar personal auszahlung		01.11.2024			0,00		4116
+A	37536	01.11.2024	9137,88	Storno: Bar personal auszahlung		01.11.2024			0,00		4116
+A	37551	01.11.2024	1015,92	lieferando Online bezahlt 7%		01.11.2024			7,00	Umsatzerlöse	4116
+A	37552	01.11.2024	67,90	lieferando Online bezahlt 19%		01.11.2024			19,00	Umsatzerlöse	4116
+A	37553	01.11.2024	368,80	ordersmart Online bezahlt 7%		01.11.2024			7,00	Umsatzerlöse	4116
+A	37554	01.11.2024	262,56	Barzahlung 7%		01.11.2024			7,00	Umsatzerlöse	4116
+A	37555	01.11.2024	7,67	Barzahlung 19%		01.11.2024			19,00	Umsatzerlöse	4116
+A	37556	01.11.2024	338,08	ordersmart Online PayPal 7%		01.11.2024			7,00	Umsatzerlöse	4116
+A	37557	01.11.2024	5,50	ordersmart Online PayPal 19%		01.11.2024			19,00	Umsatzerlöse	4116
+A	37558	01.11.2024	18,80	Online Bezahlt 7%		01.11.2024			7,00	Umsatzerlöse	4116
+A	37559	01.11.2024	1,00	Online Bezahlt 19%		01.11.2024			19,00	Umsatzerlöse	4116
+A	37560	01.11.2024	5,00	ordersmart Online bezahlt 19%		01.11.2024			19,00	Umsatzerlöse	4116
+A	37561	01.11.2024	38,87	ec-Karte 7%		01.11.2024			7,00	Umsatzerlöse	4116
+A	37562	01.11.2024	1,33	ec-Karte 19%		01.11.2024			19,00	Umsatzerlöse	4116
+A	37563	01.11.2024	-19,80	Abführung Überweisung		01.11.2024			0,00	Abführung	4116
+A	37564	01.11.2024	-40,20	Abführung ec-Karte		01.11.2024			0,00	Abführung	4116
+A	37565	01.11.2024	-1457,62	Abführung Online bezahlt		01.11.2024			0,00	Abführung	4116
+A	37566	01.11.2024	-343,58	Abführung Online PayPal		01.11.2024			0,00	Abführung	4116
+M	37567	02.11.2024	-9000,00	Volksbank Einzahlung		02.11.2024			0,00		4117
+A	37568	02.11.2024	976,77	lieferando Online bezahlt 7%		02.11.2024			7,00	Umsatzerlöse	4117
+A	37569	02.11.2024	64,30	lieferando Online bezahlt 19%		02.11.2024			19,00	Umsatzerlöse	4117
+A	37570	02.11.2024	547,87	Barzahlung 7%		02.11.2024			7,00	Umsatzerlöse	4117
+A	37571	02.11.2024	22,40	Barzahlung 19%		02.11.2024			19,00	Umsatzerlöse	4117
+A	37572	02.11.2024	163,86	ordersmart Online PayPal 7%		02.11.2024			7,00	Umsatzerlöse	4117
+A	37573	02.11.2024	2,00	ordersmart Online PayPal 19%		02.11.2024			19,00	Umsatzerlöse	4117
+A	37574	02.11.2024	475,78	ordersmart Online bezahlt 7%		02.11.2024			7,00	Umsatzerlöse	4117
+A	37575	02.11.2024	18,80	ordersmart Online bezahlt 19%		02.11.2024			19,00	Umsatzerlöse	4117
+A	37576	02.11.2024	102,10	ec-Karte 7%		02.11.2024			7,00	Umsatzerlöse	4117
+A	37577	02.11.2024	80,87	Online Bezahlt 7%		02.11.2024			7,00	Umsatzerlöse	4117
+A	37578	02.11.2024	2,00	Online Bezahlt 19%		02.11.2024			19,00	Umsatzerlöse	4117
+A	37579	02.11.2024	1,00	ec-Karte 19%		02.11.2024			19,00	Umsatzerlöse	4117
+A	37580	02.11.2024	-82,87	Abführung Überweisung		02.11.2024			0,00	Abführung	4117
+A	37581	02.11.2024	-103,10	Abführung ec-Karte		02.11.2024			0,00	Abführung	4117
+A	37582	02.11.2024	-1535,65	Abführung Online bezahlt		02.11.2024			0,00	Abführung	4117
+A	37583	02.11.2024	-165,86	Abführung Online PayPal		02.11.2024			0,00	Abführung	4117
+A	37584	03.11.2024	1424,18	lieferando Online bezahlt 7%		03.11.2024			7,00	Umsatzerlöse	4118
+A	37585	03.11.2024	56,35	lieferando Online bezahlt 19%		03.11.2024			19,00	Umsatzerlöse	4118
+A	37586	03.11.2024	68,26	ec-Karte 7%		03.11.2024			7,00	Umsatzerlöse	4118
+A	37587	03.11.2024	317,85	ordersmart Online bezahlt 7%		03.11.2024			7,00	Umsatzerlöse	4118
+A	37588	03.11.2024	4,00	ordersmart Online bezahlt 19%		03.11.2024			19,00	Umsatzerlöse	4118
+A	37589	03.11.2024	553,58	Barzahlung 7%		03.11.2024			7,00	Umsatzerlöse	4118
+A	37590	03.11.2024	21,40	Barzahlung 19%		03.11.2024			19,00	Umsatzerlöse	4118
+A	37591	03.11.2024	176,97	ordersmart Online PayPal 7%		03.11.2024			7,00	Umsatzerlöse	4118
+A	37592	03.11.2024	3,00	ordersmart Online PayPal 19%		03.11.2024			19,00	Umsatzerlöse	4118
+A	37593	03.11.2024	12,90	Online Bezahlt 7%		03.11.2024			7,00	Umsatzerlöse	4118
+A	37594	03.11.2024	1,00	Online Bezahlt 19%		03.11.2024			19,00	Umsatzerlöse	4118
+A	37595	03.11.2024	1,00	ec-Karte 19%		03.11.2024			19,00	Umsatzerlöse	4118
+A	37596	03.11.2024	-13,90	Abführung Überweisung		03.11.2024			0,00	Abführung	4118
+A	37597	03.11.2024	-69,26	Abführung ec-Karte		03.11.2024			0,00	Abführung	4118
+A	37598	03.11.2024	-1802,38	Abführung Online bezahlt		03.11.2024			0,00	Abführung	4118
+A	37599	03.11.2024	-179,97	Abführung Online PayPal		03.11.2024			0,00	Abführung	4118
+A	37600	04.11.2024	389,70	Barzahlung 7%		04.11.2024			7,00	Umsatzerlöse	4119
+A	37601	04.11.2024	23,60	Barzahlung 19%		04.11.2024			19,00	Umsatzerlöse	4119
+A	37602	04.11.2024	778,30	lieferando Online bezahlt 7%		04.11.2024			7,00	Umsatzerlöse	4119
+A	37603	04.11.2024	41,55	lieferando Online bezahlt 19%		04.11.2024			19,00	Umsatzerlöse	4119
+A	37604	04.11.2024	10,50	ordersmart Online PayPal 7%		04.11.2024			7,00	Umsatzerlöse	4119
+A	37605	04.11.2024	1,00	ordersmart Online PayPal 19%		04.11.2024			19,00	Umsatzerlöse	4119
+A	37606	04.11.2024	68,23	Online Bezahlt 7%		04.11.2024			7,00	Umsatzerlöse	4119
+A	37607	04.11.2024	2,50	Online Bezahlt 19%		04.11.2024			19,00	Umsatzerlöse	4119
+A	37608	04.11.2024	76,60	ordersmart Online bezahlt 7%		04.11.2024			7,00	Umsatzerlöse	4119
+A	37609	04.11.2024	3,50	ordersmart Online bezahlt 19%		04.11.2024			19,00	Umsatzerlöse	4119
+A	37610	04.11.2024	-70,73	Abführung Überweisung		04.11.2024			0,00	Abführung	4119
+A	37611	04.11.2024	-899,95	Abführung Online bezahlt		04.11.2024			0,00	Abführung	4119
+A	37612	04.11.2024	-11,50	Abführung Online PayPal		04.11.2024			0,00	Abführung	4119
+A	37613	05.11.2024	694,47	Barzahlung 7%		05.11.2024			7,00	Umsatzerlöse	4120
+A	37614	05.11.2024	37,23	Barzahlung 19%		05.11.2024			19,00	Umsatzerlöse	4120
+A	37615	05.11.2024	438,30	lieferando Online bezahlt 7%		05.11.2024			7,00	Umsatzerlöse	4120
+A	37616	05.11.2024	31,40	lieferando Online bezahlt 19%		05.11.2024			19,00	Umsatzerlöse	4120
+A	37617	05.11.2024	219,90	ordersmart Online PayPal 7%		05.11.2024			7,00	Umsatzerlöse	4120
+A	37618	05.11.2024	5,00	ordersmart Online PayPal 19%		05.11.2024			19,00	Umsatzerlöse	4120
+A	37619	05.11.2024	297,50	ordersmart Online bezahlt 7%		05.11.2024			7,00	Umsatzerlöse	4120
+A	37620	05.11.2024	8,50	ordersmart Online bezahlt 19%		05.11.2024			19,00	Umsatzerlöse	4120
+A	37621	05.11.2024	88,73	ec-Karte 7%		05.11.2024			7,00	Umsatzerlöse	4120
+A	37622	05.11.2024	2,07	ec-Karte 19%		05.11.2024			19,00	Umsatzerlöse	4120
+A	37623	05.11.2024	-90,80	Abführung ec-Karte		05.11.2024			0,00	Abführung	4120
+A	37624	05.11.2024	-775,70	Abführung Online bezahlt		05.11.2024			0,00	Abführung	4120
+A	37625	05.11.2024	-224,90	Abführung Online PayPal		05.11.2024			0,00	Abführung	4120
+A	37626	06.11.2024	624,20	Barzahlung 7%		06.11.2024			7,00	Umsatzerlöse	4121
+A	37627	06.11.2024	591,16	lieferando Online bezahlt 7%		06.11.2024			7,00	Umsatzerlöse	4121
+A	37628	06.11.2024	64,50	lieferando Online bezahlt 19%		06.11.2024			19,00	Umsatzerlöse	4121
+A	37629	06.11.2024	17,70	Barzahlung 19%		06.11.2024			19,00	Umsatzerlöse	4121
+A	37630	06.11.2024	108,00	ordersmart Online PayPal 7%		06.11.2024			7,00	Umsatzerlöse	4121
+A	37631	06.11.2024	6,50	ordersmart Online PayPal 19%		06.11.2024			19,00	Umsatzerlöse	4121
+A	37632	06.11.2024	24,03	Online Bezahlt 7%		06.11.2024			7,00	Umsatzerlöse	4121
+A	37633	06.11.2024	33,90	ordersmart Online bezahlt 7%		06.11.2024			7,00	Umsatzerlöse	4121
+A	37634	06.11.2024	1,00	ordersmart Online bezahlt 19%		06.11.2024			19,00	Umsatzerlöse	4121
+A	37635	06.11.2024	20,40	ec-Karte 7%		06.11.2024			7,00	Umsatzerlöse	4121
+A	37636	06.11.2024	1,00	ec-Karte 19%		06.11.2024			19,00	Umsatzerlöse	4121
+A	37637	06.11.2024	-24,03	Abführung Überweisung		06.11.2024			0,00	Abführung	4121
+A	37638	06.11.2024	-21,40	Abführung ec-Karte		06.11.2024			0,00	Abführung	4121
+A	37639	06.11.2024	-690,56	Abführung Online bezahlt		06.11.2024			0,00	Abführung	4121
+A	37640	06.11.2024	-114,50	Abführung Online PayPal		06.11.2024			0,00	Abführung	4121
+A	37641	07.11.2024	679,20	Barzahlung 7%		07.11.2024			7,00	Umsatzerlöse	4122
+A	37642	07.11.2024	29,75	Barzahlung 19%		07.11.2024			19,00	Umsatzerlöse	4122
+A	37643	07.11.2024	578,19	lieferando Online bezahlt 7%		07.11.2024			7,00	Umsatzerlöse	4122
+A	37644	07.11.2024	51,70	lieferando Online bezahlt 19%		07.11.2024			19,00	Umsatzerlöse	4122
+A	37645	07.11.2024	81,70	ordersmart Online bezahlt 7%		07.11.2024			7,00	Umsatzerlöse	4122
+A	37646	07.11.2024	2,50	ordersmart Online bezahlt 19%		07.11.2024			19,00	Umsatzerlöse	4122
+A	37647	07.11.2024	10,50	ec-Karte 7%		07.11.2024			7,00	Umsatzerlöse	4122
+A	37648	07.11.2024	143,10	ordersmart Online PayPal 7%		07.11.2024			7,00	Umsatzerlöse	4122
+A	37649	07.11.2024	5,50	ordersmart Online PayPal 19%		07.11.2024			19,00	Umsatzerlöse	4122
+A	37650	07.11.2024	25,11	Online Bezahlt 7%		07.11.2024			7,00	Umsatzerlöse	4122
+A	37651	07.11.2024	1,00	Online Bezahlt 19%		07.11.2024			19,00	Umsatzerlöse	4122
+A	37652	07.11.2024	-26,11	Abführung Überweisung		07.11.2024			0,00	Abführung	4122
+A	37653	07.11.2024	-10,50	Abführung ec-Karte		07.11.2024			0,00	Abführung	4122
+A	37654	07.11.2024	-714,09	Abführung Online bezahlt		07.11.2024			0,00	Abführung	4122
+A	37655	07.11.2024	-148,60	Abführung Online PayPal		07.11.2024			0,00	Abführung	4122
+A	37656	08.11.2024	1266,56	lieferando Online bezahlt 7%		08.11.2024			7,00	Umsatzerlöse	4123
+A	37657	08.11.2024	74,60	lieferando Online bezahlt 19%		08.11.2024			19,00	Umsatzerlöse	4123
+A	37658	08.11.2024	721,00	Barzahlung 7%		08.11.2024			7,00	Umsatzerlöse	4123
+A	37659	08.11.2024	24,00	Barzahlung 19%		08.11.2024			19,00	Umsatzerlöse	4123
+A	37660	08.11.2024	58,30	ordersmart Online bezahlt 7%		08.11.2024			7,00	Umsatzerlöse	4123
+A	37661	08.11.2024	2,00	ordersmart Online bezahlt 19%		08.11.2024			19,00	Umsatzerlöse	4123
+A	37662	08.11.2024	253,70	ordersmart Online PayPal 7%		08.11.2024			7,00	Umsatzerlöse	4123
+A	37663	08.11.2024	10,00	ordersmart Online PayPal 19%		08.11.2024			19,00	Umsatzerlöse	4123
+A	37664	08.11.2024	106,30	ec-Karte 7%		08.11.2024			7,00	Umsatzerlöse	4123
+A	37665	08.11.2024	5,70	ec-Karte 19%		08.11.2024			19,00	Umsatzerlöse	4123
+A	37666	08.11.2024	67,70	Online Bezahlt 7%		08.11.2024			7,00	Umsatzerlöse	4123
+A	37667	08.11.2024	2,00	Online Bezahlt 19%		08.11.2024			19,00	Umsatzerlöse	4123
+A	37668	08.11.2024	-69,70	Abführung Überweisung		08.11.2024			0,00	Abführung	4123
+A	37669	08.11.2024	-112,00	Abführung ec-Karte		08.11.2024			0,00	Abführung	4123
+A	37670	08.11.2024	-1401,46	Abführung Online bezahlt		08.11.2024			0,00	Abführung	4123
+A	37671	08.11.2024	-263,70	Abführung Online PayPal		08.11.2024			0,00	Abführung	4123
+A	37672	09.11.2024	202,30	ordersmart Online PayPal 7%		09.11.2024			7,00	Umsatzerlöse	4124
+A	37673	09.11.2024	5,00	ordersmart Online PayPal 19%		09.11.2024			19,00	Umsatzerlöse	4124
+A	37674	09.11.2024	695,60	Barzahlung 7%		09.11.2024			7,00	Umsatzerlöse	4124
+A	37675	09.11.2024	29,55	Barzahlung 19%		09.11.2024			19,00	Umsatzerlöse	4124
+A	37676	09.11.2024	1003,61	lieferando Online bezahlt 7%		09.11.2024			7,00	Umsatzerlöse	4124
+A	37677	09.11.2024	80,75	lieferando Online bezahlt 19%		09.11.2024			19,00	Umsatzerlöse	4124
+A	37678	09.11.2024	386,20	ordersmart Online bezahlt 7%		09.11.2024			7,00	Umsatzerlöse	4124
+A	37679	09.11.2024	12,50	ordersmart Online bezahlt 19%		09.11.2024			19,00	Umsatzerlöse	4124
+A	37680	09.11.2024	161,28	Online Bezahlt 7%		09.11.2024			7,00	Umsatzerlöse	4124
+A	37681	09.11.2024	2,50	Online Bezahlt 19%		09.11.2024			19,00	Umsatzerlöse	4124
+A	37682	09.11.2024	-163,78	Abführung Überweisung		09.11.2024			0,00	Abführung	4124
+A	37683	09.11.2024	-1483,06	Abführung Online bezahlt		09.11.2024			0,00	Abführung	4124
+A	37684	09.11.2024	-207,30	Abführung Online PayPal		09.11.2024			0,00	Abführung	4124
+A	37685	10.11.2024	750,81	Barzahlung 7%		10.11.2024			7,00	Umsatzerlöse	4125
+A	37686	10.11.2024	40,60	Barzahlung 19%		10.11.2024			19,00	Umsatzerlöse	4125
+A	37687	10.11.2024	1355,78	lieferando Online bezahlt 7%		10.11.2024			7,00	Umsatzerlöse	4125
+A	37688	10.11.2024	107,90	lieferando Online bezahlt 19%		10.11.2024			19,00	Umsatzerlöse	4125
+A	37689	10.11.2024	217,00	ordersmart Online bezahlt 7%		10.11.2024			7,00	Umsatzerlöse	4125
+A	37690	10.11.2024	5,50	ordersmart Online bezahlt 19%		10.11.2024			19,00	Umsatzerlöse	4125
+A	37691	10.11.2024	84,10	ordersmart Online PayPal 7%		10.11.2024			7,00	Umsatzerlöse	4125
+A	37692	10.11.2024	3,00	ordersmart Online PayPal 19%		10.11.2024			19,00	Umsatzerlöse	4125
+A	37693	10.11.2024	21,00	ec-Karte 7%		10.11.2024			7,00	Umsatzerlöse	4125
+A	37694	10.11.2024	-21,00	Abführung ec-Karte		10.11.2024			0,00	Abführung	4125
+A	37695	10.11.2024	-1686,18	Abführung Online bezahlt		10.11.2024			0,00	Abführung	4125
+A	37696	10.11.2024	-87,10	Abführung Online PayPal		10.11.2024			0,00	Abführung	4125
+A	37697	11.11.2024	619,60	Barzahlung 7%		11.11.2024			7,00	Umsatzerlöse	4126
+A	37698	11.11.2024	29,35	Barzahlung 19%		11.11.2024			19,00	Umsatzerlöse	4126
+A	37699	11.11.2024	385,80	ordersmart Online bezahlt 7%		11.11.2024			7,00	Umsatzerlöse	4126
+A	37700	11.11.2024	7,00	ordersmart Online bezahlt 19%		11.11.2024			19,00	Umsatzerlöse	4126
+A	37701	11.11.2024	437,38	lieferando Online bezahlt 7%		11.11.2024			7,00	Umsatzerlöse	4126
+A	37702	11.11.2024	53,56	lieferando Online bezahlt 19%		11.11.2024			19,00	Umsatzerlöse	4126
+A	37703	11.11.2024	65,70	ordersmart Online PayPal 7%		11.11.2024			7,00	Umsatzerlöse	4126
+A	37704	11.11.2024	3,00	ordersmart Online PayPal 19%		11.11.2024			19,00	Umsatzerlöse	4126
+A	37705	11.11.2024	19,17	Online Bezahlt 7%		11.11.2024			7,00	Umsatzerlöse	4126
+A	37706	11.11.2024	1,00	Online Bezahlt 19%		11.11.2024			19,00	Umsatzerlöse	4126
+A	37707	11.11.2024	-20,17	Abführung Überweisung		11.11.2024			0,00	Abführung	4126
+A	37708	11.11.2024	-883,74	Abführung Online bezahlt		11.11.2024			0,00	Abführung	4126
+A	37709	11.11.2024	-68,70	Abführung Online PayPal		11.11.2024			0,00	Abführung	4126
+A	37710	12.11.2024	696,99	lieferando Online bezahlt 7%		12.11.2024			7,00	Umsatzerlöse	4127
+A	37711	12.11.2024	42,05	lieferando Online bezahlt 19%		12.11.2024			19,00	Umsatzerlöse	4127
+A	37712	12.11.2024	198,30	ec-Karte 7%		12.11.2024			7,00	Umsatzerlöse	4127
+A	37713	12.11.2024	630,90	Barzahlung 7%		12.11.2024			7,00	Umsatzerlöse	4127
+A	37714	12.11.2024	45,25	Barzahlung 19%		12.11.2024			19,00	Umsatzerlöse	4127
+A	37715	12.11.2024	173,40	ordersmart Online bezahlt 7%		12.11.2024			7,00	Umsatzerlöse	4127
+A	37716	12.11.2024	7,00	ordersmart Online bezahlt 19%		12.11.2024			19,00	Umsatzerlöse	4127
+A	37717	12.11.2024	138,60	ordersmart Online PayPal 7%		12.11.2024			7,00	Umsatzerlöse	4127
+A	37718	12.11.2024	4,00	ordersmart Online PayPal 19%		12.11.2024			19,00	Umsatzerlöse	4127
+A	37719	12.11.2024	61,80	Online Bezahlt 7%		12.11.2024			7,00	Umsatzerlöse	4127
+A	37720	12.11.2024	3,00	Online Bezahlt 19%		12.11.2024			19,00	Umsatzerlöse	4127
+A	37721	12.11.2024	-64,80	Abführung Überweisung		12.11.2024			0,00	Abführung	4127
+A	37722	12.11.2024	-198,30	Abführung ec-Karte		12.11.2024			0,00	Abführung	4127
+A	37723	12.11.2024	-919,44	Abführung Online bezahlt		12.11.2024			0,00	Abführung	4127
+A	37724	12.11.2024	-142,60	Abführung Online PayPal		12.11.2024			0,00	Abführung	4127
+A	37725	13.11.2024	571,10	lieferando Online bezahlt 7%		13.11.2024			7,00	Umsatzerlöse	4128
+A	37726	13.11.2024	46,55	lieferando Online bezahlt 19%		13.11.2024			19,00	Umsatzerlöse	4128
+A	37727	13.11.2024	696,50	Barzahlung 7%		13.11.2024			7,00	Umsatzerlöse	4128
+A	37728	13.11.2024	16,35	Barzahlung 19%		13.11.2024			19,00	Umsatzerlöse	4128
+A	37729	13.11.2024	199,00	ordersmart Online bezahlt 7%		13.11.2024			7,00	Umsatzerlöse	4128
+A	37730	13.11.2024	6,50	ordersmart Online bezahlt 19%		13.11.2024			19,00	Umsatzerlöse	4128
+A	37731	13.11.2024	23,90	ec-Karte 7%		13.11.2024			7,00	Umsatzerlöse	4128
+A	37732	13.11.2024	205,80	ordersmart Online PayPal 7%		13.11.2024			7,00	Umsatzerlöse	4128
+A	37733	13.11.2024	6,00	ordersmart Online PayPal 19%		13.11.2024			19,00	Umsatzerlöse	4128
+A	37734	13.11.2024	75,76	Online Bezahlt 7%		13.11.2024			7,00	Umsatzerlöse	4128
+A	37735	13.11.2024	5,70	Online Bezahlt 19%		13.11.2024			19,00	Umsatzerlöse	4128
+A	37736	13.11.2024	-81,46	Abführung Überweisung		13.11.2024			0,00	Abführung	4128
+A	37737	13.11.2024	-23,90	Abführung ec-Karte		13.11.2024			0,00	Abführung	4128
+A	37738	13.11.2024	-823,15	Abführung Online bezahlt		13.11.2024			0,00	Abführung	4128
+A	37739	13.11.2024	-211,80	Abführung Online PayPal		13.11.2024			0,00	Abführung	4128
+A	37740	14.11.2024	812,50	Barzahlung 7%		14.11.2024			7,00	Umsatzerlöse	4129
+A	37741	14.11.2024	43,20	Barzahlung 19%		14.11.2024			19,00	Umsatzerlöse	4129
+A	37742	14.11.2024	625,10	lieferando Online bezahlt 7%		14.11.2024			7,00	Umsatzerlöse	4129
+A	37743	14.11.2024	35,78	lieferando Online bezahlt 19%		14.11.2024			19,00	Umsatzerlöse	4129
+A	37744	14.11.2024	246,50	ordersmart Online PayPal 7%		14.11.2024			7,00	Umsatzerlöse	4129
+A	37745	14.11.2024	9,00	ordersmart Online PayPal 19%		14.11.2024			19,00	Umsatzerlöse	4129
+A	37746	14.11.2024	281,80	ordersmart Online bezahlt 7%		14.11.2024			7,00	Umsatzerlöse	4129
+A	37747	14.11.2024	5,50	ordersmart Online bezahlt 19%		14.11.2024			19,00	Umsatzerlöse	4129
+A	37748	14.11.2024	23,04	Online Bezahlt 7%		14.11.2024			7,00	Umsatzerlöse	4129
+A	37749	14.11.2024	1,00	Online Bezahlt 19%		14.11.2024			19,00	Umsatzerlöse	4129
+A	37750	14.11.2024	10,90	ec-Karte 7%		14.11.2024			7,00	Umsatzerlöse	4129
+A	37751	14.11.2024	1,00	ec-Karte 19%		14.11.2024			19,00	Umsatzerlöse	4129
+A	37752	14.11.2024	-24,04	Abführung Überweisung		14.11.2024			0,00	Abführung	4129
+A	37753	14.11.2024	-11,90	Abführung ec-Karte		14.11.2024			0,00	Abführung	4129
+A	37754	14.11.2024	-948,18	Abführung Online bezahlt		14.11.2024			0,00	Abführung	4129
+A	37755	14.11.2024	-255,50	Abführung Online PayPal		14.11.2024			0,00	Abführung	4129
+A	37756	15.11.2024	662,30	Barzahlung 7%		15.11.2024			7,00	Umsatzerlöse	4130
+A	37757	15.11.2024	28,35	Barzahlung 19%		15.11.2024			19,00	Umsatzerlöse	4130
+A	37758	15.11.2024	276,80	ordersmart Online bezahlt 7%		15.11.2024			7,00	Umsatzerlöse	4130
+A	37759	15.11.2024	9,50	ordersmart Online bezahlt 19%		15.11.2024			19,00	Umsatzerlöse	4130
+A	37760	15.11.2024	1094,82	lieferando Online bezahlt 7%		15.11.2024			7,00	Umsatzerlöse	4130
+A	37761	15.11.2024	50,25	lieferando Online bezahlt 19%		15.11.2024			19,00	Umsatzerlöse	4130
+A	37762	15.11.2024	66,20	ordersmart Online PayPal 7%		15.11.2024			7,00	Umsatzerlöse	4130
+A	37763	15.11.2024	6,20	ordersmart Online PayPal 19%		15.11.2024			19,00	Umsatzerlöse	4130
+A	37764	15.11.2024	34,00	ec-Karte 7%		15.11.2024			7,00	Umsatzerlöse	4130
+A	37765	15.11.2024	103,60	Online Bezahlt 7%		15.11.2024			7,00	Umsatzerlöse	4130
+A	37766	15.11.2024	1,00	Online Bezahlt 19%		15.11.2024			19,00	Umsatzerlöse	4130
+A	37767	15.11.2024	-104,60	Abführung Überweisung		15.11.2024			0,00	Abführung	4130
+A	37768	15.11.2024	-34,00	Abführung ec-Karte		15.11.2024			0,00	Abführung	4130
+A	37769	15.11.2024	-1431,37	Abführung Online bezahlt		15.11.2024			0,00	Abführung	4130
+A	37770	15.11.2024	-72,40	Abführung Online PayPal		15.11.2024			0,00	Abführung	4130
+A	37771	16.11.2024	473,00	Barzahlung 7%		16.11.2024			7,00	Umsatzerlöse	4131
+A	37772	16.11.2024	60,70	Barzahlung 19%		16.11.2024			19,00	Umsatzerlöse	4131
+A	37773	16.11.2024	518,50	ordersmart Online bezahlt 7%		16.11.2024			7,00	Umsatzerlöse	4131
+A	37774	16.11.2024	10,00	ordersmart Online bezahlt 19%		16.11.2024			19,00	Umsatzerlöse	4131
+A	37775	16.11.2024	1593,89	lieferando Online bezahlt 7%		16.11.2024			7,00	Umsatzerlöse	4131
+A	37776	16.11.2024	45,00	lieferando Online bezahlt 19%		16.11.2024			19,00	Umsatzerlöse	4131
+A	37777	16.11.2024	320,20	ordersmart Online PayPal 7%		16.11.2024			7,00	Umsatzerlöse	4131
+A	37778	16.11.2024	10,00	ordersmart Online PayPal 19%		16.11.2024			19,00	Umsatzerlöse	4131
+A	37779	16.11.2024	68,50	Online Bezahlt 7%		16.11.2024			7,00	Umsatzerlöse	4131
+A	37780	16.11.2024	5,20	Online Bezahlt 19%		16.11.2024			19,00	Umsatzerlöse	4131
+A	37781	16.11.2024	54,10	ec-Karte 7%		16.11.2024			7,00	Umsatzerlöse	4131
+A	37782	16.11.2024	-73,70	Abführung Überweisung		16.11.2024			0,00	Abführung	4131
+A	37783	16.11.2024	-54,10	Abführung ec-Karte		16.11.2024			0,00	Abführung	4131
+A	37784	16.11.2024	-2167,39	Abführung Online bezahlt		16.11.2024			0,00	Abführung	4131
+A	37785	16.11.2024	-330,20	Abführung Online PayPal		16.11.2024			0,00	Abführung	4131
+A	37786	17.11.2024	1682,33	lieferando Online bezahlt 7%		17.11.2024			7,00	Umsatzerlöse	4132
+A	37787	17.11.2024	84,55	lieferando Online bezahlt 19%		17.11.2024			19,00	Umsatzerlöse	4132
+A	37788	17.11.2024	512,90	ordersmart Online bezahlt 7%		17.11.2024			7,00	Umsatzerlöse	4132
+A	37789	17.11.2024	13,50	ordersmart Online bezahlt 19%		17.11.2024			19,00	Umsatzerlöse	4132
+A	37790	17.11.2024	351,90	ordersmart Online PayPal 7%		17.11.2024			7,00	Umsatzerlöse	4132
+A	37791	17.11.2024	12,70	ordersmart Online PayPal 19%		17.11.2024			19,00	Umsatzerlöse	4132
+A	37792	17.11.2024	456,10	Barzahlung 7%		17.11.2024			7,00	Umsatzerlöse	4132
+A	37793	17.11.2024	27,30	ec-Karte 7%		17.11.2024			7,00	Umsatzerlöse	4132
+A	37794	17.11.2024	71,25	Barzahlung 19%		17.11.2024			19,00	Umsatzerlöse	4132
+A	37795	17.11.2024	67,96	Online Bezahlt 7%		17.11.2024			7,00	Umsatzerlöse	4132
+A	37796	17.11.2024	13,00	Online Bezahlt 19%		17.11.2024			19,00	Umsatzerlöse	4132
+A	37797	17.11.2024	-80,96	Abführung Überweisung		17.11.2024			0,00	Abführung	4132
+A	37798	17.11.2024	-27,30	Abführung ec-Karte		17.11.2024			0,00	Abführung	4132
+A	37799	17.11.2024	-2293,28	Abführung Online bezahlt		17.11.2024			0,00	Abführung	4132
+A	37800	17.11.2024	-364,60	Abführung Online PayPal		17.11.2024			0,00	Abführung	4132
+A	37801	18.11.2024	84,20	ec-Karte 7%		18.11.2024			7,00	Umsatzerlöse	4133
+A	37802	18.11.2024	220,80	Barzahlung 7%		18.11.2024			7,00	Umsatzerlöse	4133
+A	37803	18.11.2024	10,70	Barzahlung 19%		18.11.2024			19,00	Umsatzerlöse	4133
+A	37804	18.11.2024	334,96	lieferando Online bezahlt 7%		18.11.2024			7,00	Umsatzerlöse	4133
+A	37805	18.11.2024	18,70	lieferando Online bezahlt 19%		18.11.2024			19,00	Umsatzerlöse	4133
+A	37806	18.11.2024	109,30	ordersmart Online PayPal 7%		18.11.2024			7,00	Umsatzerlöse	4133
+A	37807	18.11.2024	4,00	ordersmart Online PayPal 19%		18.11.2024			19,00	Umsatzerlöse	4133
+A	37808	18.11.2024	-84,20	Abführung ec-Karte		18.11.2024			0,00	Abführung	4133
+A	37809	18.11.2024	-353,66	Abführung Online bezahlt		18.11.2024			0,00	Abführung	4133
+A	37810	18.11.2024	-113,30	Abführung Online PayPal		18.11.2024			0,00	Abführung	4133
+A	37811	19.11.2024	842,00	lieferando Online bezahlt 7%		19.11.2024			7,00	Umsatzerlöse	4134
+A	37812	19.11.2024	34,00	lieferando Online bezahlt 19%		19.11.2024			19,00	Umsatzerlöse	4134
+A	37813	19.11.2024	222,08	Barzahlung 7%		19.11.2024			7,00	Umsatzerlöse	4134
+A	37814	19.11.2024	13,87	Barzahlung 19%		19.11.2024			19,00	Umsatzerlöse	4134
+A	37815	19.11.2024	121,70	ordersmart Online PayPal 7%		19.11.2024			7,00	Umsatzerlöse	4134
+A	37816	19.11.2024	4,00	ordersmart Online PayPal 19%		19.11.2024			19,00	Umsatzerlöse	4134
+A	37817	19.11.2024	104,70	ordersmart Online bezahlt 7%		19.11.2024			7,00	Umsatzerlöse	4134
+A	37818	19.11.2024	3,50	ordersmart Online bezahlt 19%		19.11.2024			19,00	Umsatzerlöse	4134
+A	37819	19.11.2024	93,42	ec-Karte 7%		19.11.2024			7,00	Umsatzerlöse	4134
+A	37820	19.11.2024	2,28	ec-Karte 19%		19.11.2024			19,00	Umsatzerlöse	4134
+A	37821	19.11.2024	-95,70	Abführung ec-Karte		19.11.2024			0,00	Abführung	4134
+A	37822	19.11.2024	-984,20	Abführung Online bezahlt		19.11.2024			0,00	Abführung	4134
+A	37823	19.11.2024	-125,70	Abführung Online PayPal		19.11.2024			0,00	Abführung	4134
+A	37824	20.11.2024	456,47	lieferando Online bezahlt 7%		20.11.2024			7,00	Umsatzerlöse	4135
+A	37825	20.11.2024	30,15	lieferando Online bezahlt 19%		20.11.2024			19,00	Umsatzerlöse	4135
+A	37826	20.11.2024	212,80	Barzahlung 7%		20.11.2024			7,00	Umsatzerlöse	4135
+A	37827	20.11.2024	14,20	Barzahlung 19%		20.11.2024			19,00	Umsatzerlöse	4135
+A	37828	20.11.2024	145,00	ordersmart Online PayPal 7%		20.11.2024			7,00	Umsatzerlöse	4135
+A	37829	20.11.2024	3,00	ordersmart Online PayPal 19%		20.11.2024			19,00	Umsatzerlöse	4135
+A	37830	20.11.2024	119,20	ordersmart Online bezahlt 7%		20.11.2024			7,00	Umsatzerlöse	4135
+A	37831	20.11.2024	6,00	ordersmart Online bezahlt 19%		20.11.2024			19,00	Umsatzerlöse	4135
+A	37832	20.11.2024	10,90	ec-Karte 7%		20.11.2024			7,00	Umsatzerlöse	4135
+A	37833	20.11.2024	1,00	ec-Karte 19%		20.11.2024			19,00	Umsatzerlöse	4135
+A	37834	20.11.2024	32,32	Online Bezahlt 7%		20.11.2024			7,00	Umsatzerlöse	4135
+A	37835	20.11.2024	1,50	Online Bezahlt 19%		20.11.2024			19,00	Umsatzerlöse	4135
+A	37836	20.11.2024	-33,82	Abführung Überweisung		20.11.2024			0,00	Abführung	4135
+A	37837	20.11.2024	-11,90	Abführung ec-Karte		20.11.2024			0,00	Abführung	4135
+A	37838	20.11.2024	-611,82	Abführung Online bezahlt		20.11.2024			0,00	Abführung	4135
+A	37839	20.11.2024	-148,00	Abführung Online PayPal		20.11.2024			0,00	Abführung	4135
+A	37840	21.11.2024	264,30	Barzahlung 7%		21.11.2024			7,00	Umsatzerlöse	4136
+A	37841	21.11.2024	63,40	Barzahlung 19%		21.11.2024			19,00	Umsatzerlöse	4136
+A	37842	21.11.2024	503,30	lieferando Online bezahlt 7%		21.11.2024			7,00	Umsatzerlöse	4136
+A	37843	21.11.2024	40,10	lieferando Online bezahlt 19%		21.11.2024			19,00	Umsatzerlöse	4136
+A	37844	21.11.2024	168,10	ordersmart Online PayPal 7%		21.11.2024			7,00	Umsatzerlöse	4136
+A	37845	21.11.2024	6,50	ordersmart Online PayPal 19%		21.11.2024			19,00	Umsatzerlöse	4136
+A	37846	21.11.2024	31,10	ec-Karte 7%		21.11.2024			7,00	Umsatzerlöse	4136
+A	37847	21.11.2024	2,50	ec-Karte 19%		21.11.2024			19,00	Umsatzerlöse	4136
+A	37848	21.11.2024	25,83	Online Bezahlt 7%		21.11.2024			7,00	Umsatzerlöse	4136
+A	37849	21.11.2024	1,50	Online Bezahlt 19%		21.11.2024			19,00	Umsatzerlöse	4136
+A	37850	21.11.2024	58,50	ordersmart Online bezahlt 7%		21.11.2024			7,00	Umsatzerlöse	4136
+A	37851	21.11.2024	3,00	ordersmart Online bezahlt 19%		21.11.2024			19,00	Umsatzerlöse	4136
+A	37852	21.11.2024	-27,33	Abführung Überweisung		21.11.2024			0,00	Abführung	4136
+A	37853	21.11.2024	-33,60	Abführung ec-Karte		21.11.2024			0,00	Abführung	4136
+A	37854	21.11.2024	-604,90	Abführung Online bezahlt		21.11.2024			0,00	Abführung	4136
+A	37855	21.11.2024	-174,60	Abführung Online PayPal		21.11.2024			0,00	Abführung	4136
+A	37856	21.11.2024	16,90	ordersmart Online bezahlt 7%		21.11.2024			7,00	Umsatzerlöse	4137
+A	37857	21.11.2024	1,00	ordersmart Online bezahlt 19%		21.11.2024			19,00	Umsatzerlöse	4137
+A	37858	21.11.2024	-17,90	Abführung Online bezahlt		21.11.2024			0,00	Abführung	4137
+A	37859	22.11.2024	761,20	Barzahlung 7%		22.11.2024			7,00	Umsatzerlöse	4138
+A	37860	22.11.2024	22,00	Barzahlung 19%		22.11.2024			19,00	Umsatzerlöse	4138
+A	37861	22.11.2024	241,80	ordersmart Online bezahlt 7%		22.11.2024			7,00	Umsatzerlöse	4138
+A	37862	22.11.2024	11,50	ordersmart Online bezahlt 19%		22.11.2024			19,00	Umsatzerlöse	4138
+A	37863	22.11.2024	1072,70	lieferando Online bezahlt 7%		22.11.2024			7,00	Umsatzerlöse	4138
+A	37864	22.11.2024	69,15	lieferando Online bezahlt 19%		22.11.2024			19,00	Umsatzerlöse	4138
+A	37865	22.11.2024	373,50	ordersmart Online PayPal 7%		22.11.2024			7,00	Umsatzerlöse	4138
+A	37866	22.11.2024	16,20	ordersmart Online PayPal 19%		22.11.2024			19,00	Umsatzerlöse	4138
+A	37867	22.11.2024	14,50	ec-Karte 7%		22.11.2024			7,00	Umsatzerlöse	4138
+A	37868	22.11.2024	82,02	Online Bezahlt 7%		22.11.2024			7,00	Umsatzerlöse	4138
+A	37869	22.11.2024	1,50	Online Bezahlt 19%		22.11.2024			19,00	Umsatzerlöse	4138
+A	37870	22.11.2024	-83,52	Abführung Überweisung		22.11.2024			0,00	Abführung	4138
+A	37871	22.11.2024	-14,50	Abführung ec-Karte		22.11.2024			0,00	Abführung	4138
+A	37872	22.11.2024	-1395,15	Abführung Online bezahlt		22.11.2024			0,00	Abführung	4138
+A	37873	22.11.2024	-389,70	Abführung Online PayPal		22.11.2024			0,00	Abführung	4138
+A	37874	23.11.2024	700,20	Barzahlung 7%		23.11.2024			7,00	Umsatzerlöse	4139
+A	37875	23.11.2024	95,30	ec-Karte 7%		23.11.2024			7,00	Umsatzerlöse	4139
+A	37876	23.11.2024	424,90	ordersmart Online bezahlt 7%		23.11.2024			7,00	Umsatzerlöse	4139
+A	37877	23.11.2024	927,60	lieferando Online bezahlt 7%		23.11.2024			7,00	Umsatzerlöse	4139
+A	37878	23.11.2024	60,60	lieferando Online bezahlt 19%		23.11.2024			19,00	Umsatzerlöse	4139
+A	37879	23.11.2024	24,80	Barzahlung 19%		23.11.2024			19,00	Umsatzerlöse	4139
+A	37880	23.11.2024	191,10	ordersmart Online PayPal 7%		23.11.2024			7,00	Umsatzerlöse	4139
+A	37881	23.11.2024	5,00	ordersmart Online PayPal 19%		23.11.2024			19,00	Umsatzerlöse	4139
+A	37882	23.11.2024	6,00	ordersmart Online bezahlt 19%		23.11.2024			19,00	Umsatzerlöse	4139
+A	37883	23.11.2024	-95,30	Abführung ec-Karte		23.11.2024			0,00	Abführung	4139
+A	37884	23.11.2024	-1419,10	Abführung Online bezahlt		23.11.2024			0,00	Abführung	4139
+A	37885	23.11.2024	-196,10	Abführung Online PayPal		23.11.2024			0,00	Abführung	4139
+A	37886	24.11.2024	1463,99	lieferando Online bezahlt 7%		24.11.2024			7,00	Umsatzerlöse	4140
+A	37887	24.11.2024	117,25	lieferando Online bezahlt 19%		24.11.2024			19,00	Umsatzerlöse	4140
+A	37888	24.11.2024	576,40	Barzahlung 7%		24.11.2024			7,00	Umsatzerlöse	4140
+A	37889	24.11.2024	23,45	Barzahlung 19%		24.11.2024			19,00	Umsatzerlöse	4140
+A	37890	24.11.2024	163,90	ec-Karte 7%		24.11.2024			7,00	Umsatzerlöse	4140
+A	37891	24.11.2024	170,40	ordersmart Online PayPal 7%		24.11.2024			7,00	Umsatzerlöse	4140
+A	37892	24.11.2024	6,00	ordersmart Online PayPal 19%		24.11.2024			19,00	Umsatzerlöse	4140
+A	37893	24.11.2024	6,70	ec-Karte 19%		24.11.2024			19,00	Umsatzerlöse	4140
+A	37894	24.11.2024	265,80	ordersmart Online bezahlt 7%		24.11.2024			7,00	Umsatzerlöse	4140
+A	37895	24.11.2024	9,00	ordersmart Online bezahlt 19%		24.11.2024			19,00	Umsatzerlöse	4140
+A	37896	24.11.2024	149,14	Online Bezahlt 7%		24.11.2024			7,00	Umsatzerlöse	4140
+A	37897	24.11.2024	7,20	Online Bezahlt 19%		24.11.2024			19,00	Umsatzerlöse	4140
+A	37898	24.11.2024	-156,34	Abführung Überweisung		24.11.2024			0,00	Abführung	4140
+A	37899	24.11.2024	-170,60	Abführung ec-Karte		24.11.2024			0,00	Abführung	4140
+A	37900	24.11.2024	-1856,04	Abführung Online bezahlt		24.11.2024			0,00	Abführung	4140
+A	37901	24.11.2024	-176,40	Abführung Online PayPal		24.11.2024			0,00	Abführung	4140
+M	37902	25.11.2024	390,00	Schillerschule Hannover		22.11.2024			0,00		4141
+A	37903	25.11.2024	56,10	ordersmart Online bezahlt 7%		25.11.2024			7,00	Umsatzerlöse	4141
+A	37904	25.11.2024	14,40	ordersmart Online bezahlt 19%		25.11.2024			19,00	Umsatzerlöse	4141
+A	37905	25.11.2024	268,87	lieferando Online bezahlt 7%		25.11.2024			7,00	Umsatzerlöse	4141
+A	37906	25.11.2024	26,50	lieferando Online bezahlt 19%		25.11.2024			19,00	Umsatzerlöse	4141
+A	37907	25.11.2024	299,01	Barzahlung 7%		25.11.2024			7,00	Umsatzerlöse	4141
+A	37908	25.11.2024	17,05	Barzahlung 19%		25.11.2024			19,00	Umsatzerlöse	4141
+A	37909	25.11.2024	68,20	ec-Karte 7%		25.11.2024			7,00	Umsatzerlöse	4141
+A	37910	25.11.2024	90,50	ordersmart Online PayPal 7%		25.11.2024			7,00	Umsatzerlöse	4141
+A	37911	25.11.2024	12,15	Online Bezahlt 7%		25.11.2024			7,00	Umsatzerlöse	4141
+A	37912	25.11.2024	1,00	Online Bezahlt 19%		25.11.2024			19,00	Umsatzerlöse	4141
+A	37913	25.11.2024	2,50	ordersmart Online PayPal 19%		25.11.2024			19,00	Umsatzerlöse	4141
+A	37914	25.11.2024	-13,15	Abführung Überweisung		25.11.2024			0,00	Abführung	4141
+A	37915	25.11.2024	-68,20	Abführung ec-Karte		25.11.2024			0,00	Abführung	4141
+A	37916	25.11.2024	-365,87	Abführung Online bezahlt		25.11.2024			0,00	Abführung	4141
+A	37917	25.11.2024	-93,00	Abführung Online PayPal		25.11.2024			0,00	Abführung	4141
+A	37918	26.11.2024	323,70	ordersmart Online bezahlt 7%		26.11.2024			7,00	Umsatzerlöse	4142
+A	37919	26.11.2024	10,50	ordersmart Online bezahlt 19%		26.11.2024			19,00	Umsatzerlöse	4142
+A	37920	26.11.2024	596,44	Barzahlung 7%		26.11.2024			7,00	Umsatzerlöse	4142
+A	37921	26.11.2024	23,60	Barzahlung 19%		26.11.2024			19,00	Umsatzerlöse	4142
+A	37922	26.11.2024	579,52	lieferando Online bezahlt 7%		26.11.2024			7,00	Umsatzerlöse	4142
+A	37923	26.11.2024	42,36	lieferando Online bezahlt 19%		26.11.2024			19,00	Umsatzerlöse	4142
+A	37924	26.11.2024	76,40	ec-Karte 7%		26.11.2024			7,00	Umsatzerlöse	4142
+A	37925	26.11.2024	4,20	ec-Karte 19%		26.11.2024			19,00	Umsatzerlöse	4142
+A	37926	26.11.2024	88,60	ordersmart Online PayPal 7%		26.11.2024			7,00	Umsatzerlöse	4142
+A	37927	26.11.2024	3,00	ordersmart Online PayPal 19%		26.11.2024			19,00	Umsatzerlöse	4142
+A	37928	26.11.2024	46,40	Online Bezahlt 7%		26.11.2024			7,00	Umsatzerlöse	4142
+A	37929	26.11.2024	1,00	Online Bezahlt 19%		26.11.2024			19,00	Umsatzerlöse	4142
+A	37930	26.11.2024	-47,40	Abführung Überweisung		26.11.2024			0,00	Abführung	4142
+A	37931	26.11.2024	-80,60	Abführung ec-Karte		26.11.2024			0,00	Abführung	4142
+A	37932	26.11.2024	-956,08	Abführung Online bezahlt		26.11.2024			0,00	Abführung	4142
+A	37933	26.11.2024	-91,60	Abführung Online PayPal		26.11.2024			0,00	Abführung	4142
+A	37934	27.11.2024	800,30	lieferando Online bezahlt 7%		27.11.2024			7,00	Umsatzerlöse	4143
+A	37935	27.11.2024	50,35	lieferando Online bezahlt 19%		27.11.2024			19,00	Umsatzerlöse	4143
+A	37936	27.11.2024	246,50	ordersmart Online bezahlt 7%		27.11.2024			7,00	Umsatzerlöse	4143
+A	37937	27.11.2024	18,50	ordersmart Online bezahlt 19%		27.11.2024			19,00	Umsatzerlöse	4143
+A	37938	27.11.2024	24,01	Online Bezahlt 7%		27.11.2024			7,00	Umsatzerlöse	4143
+A	37939	27.11.2024	305,30	Barzahlung 7%		27.11.2024			7,00	Umsatzerlöse	4143
+A	37940	27.11.2024	7,00	Barzahlung 19%		27.11.2024			19,00	Umsatzerlöse	4143
+A	37941	27.11.2024	18,40	ec-Karte 7%		27.11.2024			7,00	Umsatzerlöse	4143
+A	37942	27.11.2024	1,50	ec-Karte 19%		27.11.2024			19,00	Umsatzerlöse	4143
+A	37943	27.11.2024	127,20	ordersmart Online PayPal 7%		27.11.2024			7,00	Umsatzerlöse	4143
+A	37944	27.11.2024	4,00	ordersmart Online PayPal 19%		27.11.2024			19,00	Umsatzerlöse	4143
+A	37945	27.11.2024	-24,01	Abführung Überweisung		27.11.2024			0,00	Abführung	4143
+A	37946	27.11.2024	-19,90	Abführung ec-Karte		27.11.2024			0,00	Abführung	4143
+A	37947	27.11.2024	-1115,65	Abführung Online bezahlt		27.11.2024			0,00	Abführung	4143
+A	37948	27.11.2024	-131,20	Abführung Online PayPal		27.11.2024			0,00	Abführung	4143
+A	37949	28.11.2024	889,02	lieferando Online bezahlt 7%		28.11.2024			7,00	Umsatzerlöse	4144
+A	37950	28.11.2024	45,90	lieferando Online bezahlt 19%		28.11.2024			19,00	Umsatzerlöse	4144
+A	37951	28.11.2024	436,70	Barzahlung 7%		28.11.2024			7,00	Umsatzerlöse	4144
+A	37952	28.11.2024	13,50	Barzahlung 19%		28.11.2024			19,00	Umsatzerlöse	4144
+A	37953	28.11.2024	176,60	ec-Karte 7%		28.11.2024			7,00	Umsatzerlöse	4144
+A	37954	28.11.2024	1,00	ec-Karte 19%		28.11.2024			19,00	Umsatzerlöse	4144
+A	37955	28.11.2024	111,00	ordersmart Online PayPal 7%		28.11.2024			7,00	Umsatzerlöse	4144
+A	37956	28.11.2024	5,50	ordersmart Online PayPal 19%		28.11.2024			19,00	Umsatzerlöse	4144
+A	37957	28.11.2024	295,60	ordersmart Online bezahlt 7%		28.11.2024			7,00	Umsatzerlöse	4144
+A	37958	28.11.2024	19,90	ordersmart Online bezahlt 19%		28.11.2024			19,00	Umsatzerlöse	4144
+A	37959	28.11.2024	-177,60	Abführung ec-Karte		28.11.2024			0,00	Abführung	4144
+A	37960	28.11.2024	-1250,42	Abführung Online bezahlt		28.11.2024			0,00	Abführung	4144
+A	37961	28.11.2024	-116,50	Abführung Online PayPal		28.11.2024			0,00	Abführung	4144
+A	37962	29.11.2024	240,30	ordersmart Online PayPal 7%		29.11.2024			7,00	Umsatzerlöse	4145
+A	37963	29.11.2024	9,50	ordersmart Online PayPal 19%		29.11.2024			19,00	Umsatzerlöse	4145
+A	37964	29.11.2024	765,30	Barzahlung 7%		29.11.2024			7,00	Umsatzerlöse	4145
+A	37965	29.11.2024	29,15	Barzahlung 19%		29.11.2024			19,00	Umsatzerlöse	4145
+A	37966	29.11.2024	1036,41	lieferando Online bezahlt 7%		29.11.2024			7,00	Umsatzerlöse	4145
+A	37967	29.11.2024	57,85	lieferando Online bezahlt 19%		29.11.2024			19,00	Umsatzerlöse	4145
+A	37968	29.11.2024	212,40	ordersmart Online bezahlt 7%		29.11.2024			7,00	Umsatzerlöse	4145
+A	37969	29.11.2024	10,00	ordersmart Online bezahlt 19%		29.11.2024			19,00	Umsatzerlöse	4145
+A	37970	29.11.2024	117,50	ec-Karte 7%		29.11.2024			7,00	Umsatzerlöse	4145
+A	37971	29.11.2024	4,20	ec-Karte 19%		29.11.2024			19,00	Umsatzerlöse	4145
+A	37972	29.11.2024	41,80	Online Bezahlt 7%		29.11.2024			7,00	Umsatzerlöse	4145
+A	37973	29.11.2024	1,00	Online Bezahlt 19%		29.11.2024			19,00	Umsatzerlöse	4145
+A	37974	29.11.2024	-42,80	Abführung Überweisung		29.11.2024			0,00	Abführung	4145
+A	37975	29.11.2024	-121,70	Abführung ec-Karte		29.11.2024			0,00	Abführung	4145
+A	37976	29.11.2024	-1316,66	Abführung Online bezahlt		29.11.2024			0,00	Abführung	4145
+A	37977	29.11.2024	-249,80	Abführung Online PayPal		29.11.2024			0,00	Abführung	4145
+A	37978	30.11.2024	390,50	ordersmart Online bezahlt 7%		30.11.2024			7,00	Umsatzerlöse	4146
+A	37979	30.11.2024	13,50	ordersmart Online bezahlt 19%		30.11.2024			19,00	Umsatzerlöse	4146
+A	37980	30.11.2024	1286,56	lieferando Online bezahlt 7%		30.11.2024			7,00	Umsatzerlöse	4146
+A	37981	30.11.2024	61,75	lieferando Online bezahlt 19%		30.11.2024			19,00	Umsatzerlöse	4146
+A	37982	30.11.2024	573,80	Barzahlung 7%		30.11.2024			7,00	Umsatzerlöse	4146
+A	37983	30.11.2024	27,40	Barzahlung 19%		30.11.2024			19,00	Umsatzerlöse	4146
+A	37984	30.11.2024	54,18	Online Bezahlt 7%		30.11.2024			7,00	Umsatzerlöse	4146
+A	37985	30.11.2024	2,00	Online Bezahlt 19%		30.11.2024			19,00	Umsatzerlöse	4146
+A	37986	30.11.2024	163,70	ec-Karte 7%		30.11.2024			7,00	Umsatzerlöse	4146
+A	37987	30.11.2024	1,00	ec-Karte 19%		30.11.2024			19,00	Umsatzerlöse	4146
+A	37988	30.11.2024	288,40	ordersmart Online PayPal 7%		30.11.2024			7,00	Umsatzerlöse	4146
+A	37989	30.11.2024	10,70	ordersmart Online PayPal 19%		30.11.2024			19,00	Umsatzerlöse	4146
+A	37990	30.11.2024	-56,18	Abführung Überweisung		30.11.2024			0,00	Abführung	4146
+A	37991	30.11.2024	-164,70	Abführung ec-Karte		30.11.2024			0,00	Abführung	4146
+A	37992	30.11.2024	-1752,31	Abführung Online bezahlt		30.11.2024			0,00	Abführung	4146
+A	37993	30.11.2024	-299,10	Abführung Online PayPal		30.11.2024			0,00	Abführung	4146
+M	37994	30.11.2024	-423,69	Aspack GmbH		30.11.2024			0,00		4147
+M	37996	30.11.2024	-7087,88	Bar personal auszahlung		30.11.2024			0,00		4147
