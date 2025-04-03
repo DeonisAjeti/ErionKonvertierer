@@ -29,11 +29,19 @@
         private void InitializeComponent()
         {
             this.Konvertieren = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // Konvertieren
             // 
-            this.Konvertieren.Location = new System.Drawing.Point(317, 215);
+            this.Konvertieren.Location = new System.Drawing.Point(220, 146);
             this.Konvertieren.Name = "Konvertieren";
             this.Konvertieren.Size = new System.Drawing.Size(87, 23);
             this.Konvertieren.TabIndex = 0;
@@ -41,21 +49,108 @@
             this.Konvertieren.UseVisualStyleBackColor = true;
             this.Konvertieren.Click += new System.EventHandler(this.button1_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(248, 206);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(22, 15);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Txt";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(86, 58);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(347, 23);
+            this.textBox1.TabIndex = 2;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(220, 29);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(87, 23);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "Öffnen";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(86, 88);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(347, 23);
+            this.textBox2.TabIndex = 4;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(49, 61);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(34, 15);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "Pfad:";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(4, 92);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(79, 15);
+            this.label3.TabIndex = 6;
+            this.label3.Text = "Speicherpfad:";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(86, 117);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(347, 23);
+            this.textBox3.TabIndex = 7;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(11, 120);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(72, 15);
+            this.label4.TabIndex = 8;
+            this.label4.Text = "Datei Name:";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            // 
             // Konvertierer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(465, 241);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.Konvertieren);
             this.Name = "Konvertierer";
             this.Text = "Konverter";
             this.Load += new System.EventHandler(this.Konverter_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
         private Button Konvertieren;
+        private Label label1;
+        private TextBox textBox1;
+        private Button button1;
+        private TextBox textBox2;
+        private Label label2;
+        private Label label3;
+        private TextBox textBox3;
+        private Label label4;
     }
 }
