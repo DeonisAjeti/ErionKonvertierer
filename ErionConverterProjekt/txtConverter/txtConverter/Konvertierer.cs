@@ -17,7 +17,14 @@ namespace txtConverter
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Readtxt();
+            if (textBox4.Text.Length == 0)
+            {
+                MessageBox.Show("Bitte geben Sie eine Konto Nr. an!");
+            }
+            else
+            {
+                Readtxt();
+            }
         }
         private void Readtxt()
         {
@@ -43,7 +50,8 @@ namespace txtConverter
                 strings[i] = abschnitte[i].Split(new string[] { "\t" }, StringSplitOptions.None);
             }
             string[][] adaptedString = new string[strings.Length-1][];
-            for(int i = 0; i < adaptedString.Length; i++)
+            string kontonr = textBox4.Text;
+            for (int i = 0; i < adaptedString.Length; i++)
             {
                 adaptedString[i] = new string[strings[i].Length+1];
                 for(int j = 0; j < adaptedString[i].Length; j++)
@@ -61,14 +69,20 @@ namespace txtConverter
                         }else
                         {
                             //Kontonummer
-                            adaptedString[i][j] = "1600";
+                            adaptedString[i][j] = kontonr;
                         }
                     }
                 }
             }
             return adaptedString;
         }
-
+        private void OnlyNumbers(object sender, KeyPressEventArgs e)
+        {
+            if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+        }
         private void Writetxt(string[][] txt)
         {
             using (SaveFileDialog sfd = new SaveFileDialog())

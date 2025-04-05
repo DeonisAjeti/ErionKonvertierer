@@ -37,11 +37,13 @@
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // Konvertieren
             // 
-            this.Konvertieren.Location = new System.Drawing.Point(362, 100);
+            this.Konvertieren.Location = new System.Drawing.Point(351, 100);
             this.Konvertieren.Name = "Konvertieren";
             this.Konvertieren.Size = new System.Drawing.Size(87, 23);
             this.Konvertieren.TabIndex = 0;
@@ -119,11 +121,30 @@
             this.label5.Text = "..txt";
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(90, 100);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(116, 23);
+            this.textBox4.TabIndex = 10;
+            this.textBox4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.OnlyNumbers);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(26, 104);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(61, 15);
+            this.label6.TabIndex = 13;
+            this.label6.Text = "Konto Nr.:";
+            // 
             // Konvertierer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(827, 134);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.textBox4);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.textBox3);
@@ -152,5 +173,7 @@
         private TextBox textBox3;
         private Label label4;
         private Label label5;
+        private TextBox textBox4;
+        private Label label6;
     }
 }
